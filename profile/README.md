@@ -1,5 +1,7 @@
 This GitHub Organization is for Avnet IoTConnect Platform.
 
+**Browse everything in one place — boards, SDKs, and ready-to-run demos — in the [/IOTCONNECT Enablement Hub](https://avnet-iotconnect.github.io/iotc-index/).**
+
 Refer to the Repository Index by MCU / MPU located here:  [https://avnet-iotconnect.github.io/](https://avnet-iotconnect.github.io/)
 
 Refer to the individual repositories for different platform SDK's and samples to use with IoTConnect.
